@@ -23,7 +23,7 @@ REM - ZIP, pasta dentro do diretório de backup, para armazenar os arquivos comp
 REM - DESTINO, diretório para onde você deseja enviar o backup para armazenamento.
 REM - DEIXEI EXEMPLIFICADO, como seria os caminhos, note que no destino, selecionei o disco local D:, este script é para backup de segurança em outra midia !!!
 
-set BACKUP=C:\Backup\Temp
+set BACKUP=C:\Backup\TEMP
 set ZIPS=C:\Backup\Zip
 set DESTINO=D:\Backup
 set LOG=C:\Backup\Log
